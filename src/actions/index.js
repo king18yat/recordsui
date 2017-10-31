@@ -1,6 +1,6 @@
 import axios from 'axios';
 const PORT = 3000;
-export const ROOT_URL = `http://104.236.21.62:${PORT}/`;
+export const ROOT_URL = `http://http://138.197.168.116:${PORT}/`;
 export const API_RECORDS = 'api/records';
 
 export const FEATCH_RECORDS = 'FEATCH_RECORDS';
